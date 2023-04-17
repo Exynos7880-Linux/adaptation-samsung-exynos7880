@@ -1,0 +1,9 @@
+Package: adaptation-samsung-exynos7880-configs
+Source: adaptation-samsung-exynos7880
+Version: 0.0.0+git20230414090423.c1d803f.bookworm+git20230414204738.888c49a.bookworm+git20230414215555.3551e7e.bookworm
+Architecture: arm64
+Maintainer: aymanrgab <aymanrar2c@gmail.com>
+Installed-Size: 52
+Section: metapackages
+Priority: optional
+Description: Community adaptation for samsung-exynos7880 - adaptation configurations

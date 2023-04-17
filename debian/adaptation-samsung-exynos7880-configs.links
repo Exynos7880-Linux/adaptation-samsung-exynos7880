@@ -1,0 +1,2 @@
+/usr/lib/adaptation-samsung-exynos7880/sources.list.d/community-samsung-exynos7880.list /etc/apt/sources.list.d/community-samsung-exynos7880.list
+/usr/lib/adaptation-samsung-exynos7880/trusted.gpg.d/community-samsung-exynos7880.gpg /etc/apt/trusted.gpg.d/community-samsung-exynos7880.gpg

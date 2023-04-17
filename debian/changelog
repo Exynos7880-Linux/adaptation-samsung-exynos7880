@@ -1,0 +1,11 @@
+adaptation-samsung-exynos7880 (0.0.0+git20230414090423.c1d803f.bookworm+git20230414204738.888c49a.bookworm+git20230414215555.3551e7e.bookworm) bookworm; urgency=medium
+
+  * Initial commit
+  * add device pkgs
+  * configure apt repo
+  * add signin key
+  * configure apt repo
+  * configure apt repo
+
+ -- aymanrgab <aymanrar2c@gmail.com>  Fri, 14 Apr 2023 23:55:55 +0200
+

@@ -1,0 +1,7 @@
+25f6ac1c76842518c453e3db9594784f  usr/lib/adaptation-samsung-exynos7880/sources.list.d/community-samsung-exynos7880.list
+6b2a3c31baf99fb6e0650d6dddcb23b9  usr/lib/adaptation-samsung-exynos7880/trusted.gpg.d/community-samsung-exynos7880.gpg
+6c44a9177198e06ffa2f4c8c5666c56d  usr/lib/droid-system-overlay/etc/init/init.disabled.rc
+5d2299b172b4d9e8320cd32a44d0e362  usr/share/doc/adaptation-samsung-exynos7880-configs/changelog.gz
+6c4ce1a27760cfcde3f613c073212a7e  usr/share/doc/adaptation-samsung-exynos7880-configs/copyright
+6b2a3c31baf99fb6e0650d6dddcb23b9  usr/share/keyrings/exynos7880.gpg
+4bae4a78a9f2ff52620308eb42e1cdd3  usr/share/phosh/phoc.ini

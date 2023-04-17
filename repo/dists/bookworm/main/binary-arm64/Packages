@@ -1,0 +1,32 @@
+Package: adaptation-samsung-exynos7880
+Priority: optional
+Section: metapackages
+Installed-Size: 9
+Maintainer: aymanrgab <aymanrar2c@gmail.com>
+Architecture: arm64
+Version: 0.0.0+git20230414090423.c1d803f.bookworm+git20230414204738.888c49a.bookworm+git20230414215555.3551e7e.bookworm
+Depends: adaptation-hybris-api29-phone, adaptation-samsung-exynos7880-configs (= 0.0.0+git20230414090423.c1d803f.bookworm+git20230414204738.888c49a.bookworm+git20230414215555.3551e7e.bookworm)
+Filename: pool/main/a/adaptation-samsung-exynos7880/adaptation-samsung-exynos7880_0.0.0+git20230414090423.c1d803f.bookworm+git20230414204738.888c49a.bookworm+git20230414215555.3551e7e.bookworm_arm64.deb
+Size: 2236
+MD5sum: d8079fb9b6bdb06e262cfed2119a1845
+SHA1: 69f4581ebee5138984231dd7f142b85dbaf25309
+SHA256: 3c455344bf230a86309569e62449fd37290b2169e5129163d2d27190ef173f0c
+SHA512: f926a0b223d0af39cf34319d3cef4d8db4e2925cc90e6d86db04d0d913341dd14fa17f71b5b0c72c43b297991c2bd7f4c8b366e5a025aadb125b4261e72974c8
+Description: Community adaptation for samsung-exynos7880 - metapackage
+
+Package: adaptation-samsung-exynos7880-configs
+Priority: optional
+Section: metapackages
+Installed-Size: 52
+Maintainer: aymanrgab <aymanrar2c@gmail.com>
+Architecture: arm64
+Source: adaptation-samsung-exynos7880
+Version: 0.0.0+git20230414090423.c1d803f.bookworm+git20230414204738.888c49a.bookworm+git20230414215555.3551e7e.bookworm
+Filename: pool/main/a/adaptation-samsung-exynos7880/adaptation-samsung-exynos7880-configs_0.0.0+git20230414090423.c1d803f.bookworm+git20230414204738.888c49a.bookworm+git20230414215555.3551e7e.bookworm_arm64.deb
+Size: 5900
+MD5sum: 28b8b89739ebd0e38b0c6cbc8bf29c8e
+SHA1: 8a6d781d501521f8738796d8bd563bfa67f9daf5
+SHA256: 0b95b0d57114df744a08bbbb7281cf996ec2b66999140f4d06da416eba61b43b
+SHA512: 5447f92f61bc36994fef030fe0cddd80c5a5fc41a9c36178822c368a100f551db8f72eb82adcb9058343fa5195ca11bef6c71af0911dc8ec38fb2e407e3718a7
+Description: Community adaptation for samsung-exynos7880 - adaptation configurations
+
